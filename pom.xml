@@ -4,7 +4,7 @@
 
 	<groupId>com.holidaycheck</groupId>
 	<artifactId>marathon-maven-plugin</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.2-pp0.0.1</version>
 	<packaging>maven-plugin</packaging>
 	<name>marathon-maven-plugin</name>
 	<description>Maven plugin for interacting with Marathon</description>
