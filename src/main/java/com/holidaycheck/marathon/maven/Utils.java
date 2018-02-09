@@ -31,8 +31,8 @@ import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.Writer;
 
+import mesosphere.client.common.ModelUtils;
 import mesosphere.marathon.client.model.v2.App;
-import mesosphere.marathon.client.utils.ModelUtils;
 
 import org.apache.maven.plugin.MojoExecutionException;
 

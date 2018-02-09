@@ -22,8 +22,8 @@
 package com.holidaycheck.marathon.maven;
 
 import mesosphere.marathon.client.Marathon;
-import mesosphere.marathon.client.utils.MarathonException;
 
+import mesosphere.marathon.client.MarathonException;
 import org.apache.maven.execution.MavenSession;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecution;
